@@ -1,0 +1,24 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.leverkusen",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"exequielpalacios1a",
+         "name":"Exequiel Palacios",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"jeremiefrimpong1a",
+         "name":"Jeremie Frimpong",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"patrickschik1a",
+         "name":"Patricks Chik",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      }
+   ]
+}
