@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2324m26",
+         "name":"vs Freiburg",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"uel2324o2",
          "name":"vs Qarabag (2)",
          "animated_sticker_pack":false,
