@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"uel2324s2",
+         "name":"vs Roma (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"bundesliga2324m32",
          "name":"vs Eintracht Frankfurt",
          "animated_sticker_pack":false,
@@ -10,7 +16,7 @@
       },
       {
          "identifier":"uel2324s1",
-         "name":"vs Roma",
+         "name":"vs Roma (1)",
          "animated_sticker_pack":false,
          "stickers":"22"
       },
