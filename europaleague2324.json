@@ -1,0 +1,42 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.leverkusen",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"uel2324s2",
+         "name":"vs Roma (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"uel2324s1",
+         "name":"vs Roma (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"uel2324c2",
+         "name":"vs West Ham (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"uel2324c1",
+         "name":"vs West Ham (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"uel2324o2",
+         "name":"vs Qarabag (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"uel2324o1",
+         "name":"vs Qarabag (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      }
+   ]
+}
